@@ -1,0 +1,35 @@
+* Mağaza Veri Tabanı Analizi
+
+* Hayata geçirilecek sistem neye hizmet edecek?
+-Hayata geçirilecek veri tabanı, giyim üzerine ürünlerin yer aldığı bir mağazanın veri tabanıdır.
+
+* Veri tabanı hangi ihtiyaçları karşılayacak?
+-Ürünlerin beden bilgisi sorgulanabilecektir.
+-Ürünlerin marka bilgisi sorgulanabilecektir.
+-Ürünlerin erkek mi bayan mı olduğuna dair sorgulama yapılabilecektir.
+-Ürünlerin yazlık yada kışlık olduğuna dair sorgulama yapılabilecektir.
+-Ürünlerin defolu olup olmadığına dair sorgulama yapılabilecektir.
+-Mağazada herhangi bir ürünün hangi bedeninden kaç adet bulunduğu bilgisi sorgulanabilecektir.
+
+* Veri tabanında hangi veriler depolanacak?
+-Mağaza bilgisi
+-Marka bilgisi
+-Ürün bilgisi
+
+* Veri tabanında ne tür veriler depolanacak?
+*Mağaza verileri
+-Mağazanın adı
+-Mağazanın kuruluş tarihi
+-Mağazadan kaç tane ve hangi semtlerde olduğu
+-Mağazaya gelen günlük ortalama müşteri sayısı
+-Mağazanın aylık olarak yapmış olduğu ciro miktarı
+
+* Marka verileri
+-Marka adı
+-Markanın kurucusu
+-Markanın kuruluş tarihi
+-Marka barkod no
+ 
+* Ürün verileri
+-Ürün no
+-URL
